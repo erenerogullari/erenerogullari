@@ -1,4 +1,4 @@
-# Eren Erogullari
+# About Me
 
 AI Engineer & Researcher focused on agentic AI systems, deep learning, and full-stack AI applications.
 
